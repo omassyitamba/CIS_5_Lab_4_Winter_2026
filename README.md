@@ -30,3 +30,5 @@ Deliverable:
 - main.cpp
 - 1–2 min video explaining logic + demo run
 - Upload to GitHub (fork this repo first)
+
+https://youtu.be/E0KsCQhuTO4
